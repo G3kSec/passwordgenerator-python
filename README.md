@@ -21,7 +21,7 @@ cd PasswordGenerator-python
 ```
 3. Run the file ``passwordGenerator.py``.
 ```
-python3 passwordGenerator.py
+python passwordGenerator.py
 ```
 4. Done, your password was generated.
 
