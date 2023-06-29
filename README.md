@@ -1,5 +1,7 @@
 # <img src='https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg' alt='python' height='32'> Password Generator Using Python
 
+
+
 By running the ``.py`` file you will be able to generate a random password with the following characters:
 - A / Z (Lower case)
 - A / Z (Upper Case)
@@ -13,7 +15,7 @@ This password has a default length of 20.
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/g3ksec/PasswordGenerator-python.git
+git clone https://github.com/LucianoGriffa/PasswordGenerator-python.git
 ```
 2. Enter the folder.
 ```
@@ -27,14 +29,4 @@ python passwordGenerator.py
 
 ![Example](./example.png)
 
-
-```
-
-██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
-██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
-██████╔╝ ╚████╔╝     ██║  ███╗ █████╔╝█████╔╝ ███████╗█████╗  ██║     
-██╔══██╗  ╚██╔╝      ██║   ██║ ╚═══██╗██╔═██╗ ╚════██║██╔══╝  ██║     
-██████╔╝   ██║       ╚██████╔╝██████╔╝██║  ██╗███████║███████╗╚██████╗
-╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
-                                                                      
-```
+**By @LucianoGriffa | 2023**
