@@ -15,7 +15,7 @@ This password has a default length of 20.
 ## How To Use
 1. Clone the repository.
 ``` 
-git clone https://github.com/G3kSec/PasswordGenerator-python.git
+git clone https://github.com/LucianoGriffa/PasswordGenerator-python.git
 ```
 2. Enter the folder.
 ```
@@ -29,4 +29,4 @@ python passwordGenerator.py
 
 ![Example](./example.png)
 
-**By @G3kSec | 2023**
+**By Luciano Griffa | 2023**
